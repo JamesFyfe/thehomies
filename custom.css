@@ -1,0 +1,117 @@
+body {
+	padding-bottom: 15px;
+}
+
+.navbar {
+  	border-bottom: 1px solid grey;
+  	font-size: 1.2vw;
+}
+
+.navbar a {
+  	color: #e6e6e6;
+  	text-align: center;
+  	/*border: 1px solid blue;*/
+}
+
+
+.navbar-nav {
+	width: 30vw;
+	/*border: 1px solid purple;*/
+}
+
+
+.navbar-brand {
+	font-size: 1.5vw;
+	/*border: 1px solid orange;*/
+}
+
+.navbar-brand img {
+	width: 3.5em;
+	height: 3.5em;
+}
+
+
+.nav-item {
+	margin: 0 1vw 0 1vw;
+}
+
+.nav-item a {
+	/*border: 1px solid blue;*/
+	font-size: 100%;
+	width: 5vw;
+}
+
+
+.center img {
+	display:block;
+	height: 70%;
+	width: 70%;
+	margin: 1% auto 1% auto;
+	/*margin-left: auto;
+	margin-right: auto;*/
+}
+
+.container {
+	margin-top: 15px;
+	/*border: 1px solid #73AD21;*/
+}
+
+
+.active a {
+	color: #59afff;
+}
+
+html, body {
+	background-color: black;
+	color: #e6e6e6;
+}
+
+.socialMediaList {
+	position: relative;
+	/*bottom: -100px;*/
+	
+	width: 15vw;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 4%;
+	/*border: 1px solid #73AD21;*/
+	font-size: 1.2vw;
+}
+.socialMediaImgContainer {
+	display: inline-block;
+	width: 15%;
+	text-align: center;
+	margin: 5% 1% 5% 1%;
+	/*border: 1px solid #73AD21;*/
+}
+
+.col {
+	margin: 5%;
+	/*border: 1px solid #73AD21;*/
+}
+
+.pageHeader {
+	text-align: center;
+}
+
+.creatorProfile {
+	margin: 8%;
+	border: 1px solid #73AD21;
+}
+
+.creatorLinks {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4%;
+	/*border: 1px solid #73AD21;*/
+	font-size: 1.2vw;
+}
+
+.creatorLinksImgContainer {
+	display: inline-block;
+	width: 5%;
+	text-align: center;
+	/*margin: 1% 1% 1% 1%;*/
+	/*border: 1px solid #73AD21;*/
+}
