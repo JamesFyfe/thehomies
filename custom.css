@@ -9,6 +9,7 @@ html, body {
   	border-bottom: 1px solid #59afff;
   	font-size: 1.2vw;
   	background-color: #ffffff;
+	opacity: 97%;
   	height: 5vw;
   	z-index: 2;
 }
